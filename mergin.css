@@ -1,0 +1,36 @@
+.wrapper{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    margin: 0px 0px 10px 0px;
+    border: 10px dotted blue;
+    padding: 10px;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+body{
+    margin: 0;
+}
+.klazs{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    margin: 0px 0px;
+    border: 10px double green;
+    padding: 10px;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+.class{
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    margin: 10px 0px 0px 0px;
+    border: 10px  solid black;
+    padding: 10px;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
